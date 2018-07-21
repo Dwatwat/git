@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\dexte\\source\\repos\\Diary.Api\\Diary.Api\\Diary.Api.csproj",
+      "projectUniqueName": "C:\\Users\\dexte\\git\\Diary.Api\\Diary.Api\\Diary.Api.csproj",
       "projectName": "Diary.Api",
-      "projectPath": "c:\\users\\dexte\\source\\repos\\Diary.Api\\Diary.Api\\Diary.Api.csproj",
+      "projectPath": "C:\\Users\\dexte\\git\\Diary.Api\\Diary.Api\\Diary.Api.csproj",
       "packagesPath": "C:\\Users\\dexte\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\dexte\\source\\repos\\Diary.Api\\Diary.Api\\obj\\",
+      "outputPath": "C:\\Users\\dexte\\git\\Diary.Api\\Diary.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

@@ -21,5 +21,6 @@ namespace Diary.Api
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
+        //asdasd
     }
 }
